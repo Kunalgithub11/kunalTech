@@ -1,2 +1,3 @@
 # kunalTech
-this is my portfolio
+this is my portfolio.
+Author-Kunal Kumar
